@@ -1,2 +1,10 @@
-# SC_302_Documentacion_MN_Dahyan
+# SC\_302\_Documentacion\_MN\_Dahyan
+
 primer laboratorio
+
+
+
+
+
+Esta es mi primera práctica con GitHub
+
